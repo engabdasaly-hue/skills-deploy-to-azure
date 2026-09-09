@@ -9,8 +9,8 @@ env:
   ###############################################
   ### Replace <username> with GitHub username ###
   ###############################################
-  DOCKER_IMAGE_NAME: engabdasaly-hue-azure-ttt
-  AZURE_WEBAPP_NAME: engabdasaly-hue-ttt-app
+  DOCKER_IMAGE_NAME: engabdasaly-huee-azure-ttt
+  AZURE_WEBAPP_NAME: engabdasaly-huee-ttt-app
   ###############################################
 
 jobs:
